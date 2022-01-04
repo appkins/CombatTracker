@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CombatTracker", "CombatTracker\CombatTracker.csproj", "{8D609117-F60D-4315-8C63-1B6810879FA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CombatTracker.Tests", "CombatTracker.Tests\CombatTracker.Tests.csproj", "{2CB54717-C3BC-4160-9576-23C777CD34D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D609117-F60D-4315-8C63-1B6810879FA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D609117-F60D-4315-8C63-1B6810879FA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D609117-F60D-4315-8C63-1B6810879FA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D609117-F60D-4315-8C63-1B6810879FA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CB54717-C3BC-4160-9576-23C777CD34D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CB54717-C3BC-4160-9576-23C777CD34D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CB54717-C3BC-4160-9576-23C777CD34D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CB54717-C3BC-4160-9576-23C777CD34D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2EDBA93-33A6-46F8-A122-5BF9201C74C0}
+	EndGlobalSection
+EndGlobal

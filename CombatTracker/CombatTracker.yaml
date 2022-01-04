@@ -1,0 +1,6 @@
+﻿name: CombatTracker
+author: appkins
+description: Combat TTS. Use /actconfig to configure the triggers.
+repo_url: https://github.com/appkins/CombatTracker
+tags: [ "tts", "trigger", "triggers", "voice", "voices", "speech", "appkins" ]
+dalamud_api_level: 5
